@@ -1,0 +1,29 @@
+<html>
+<head>
+	<title>
+	Mypage
+	</title>
+	<link rel="stylesheet" type="text/css" href="stylesheets/screen.css" > 
+</head> 
+<body>
+    
+		<div class="container">
+		<header class="head">
+			<button class="butn1"> HOME
+			</button>
+			<button class="butn1"> ABOUT US
+			</button>
+			<button class="butn1"> BLOG
+			</button>
+			<button class="butn1"> CONTACT US 
+			</button>
+		</header>
+		<footer class="foot">
+			<button class="butn1"> SIGN IN
+			</button>
+			</footer>
+
+		
+		
+</body>
+</html> 
